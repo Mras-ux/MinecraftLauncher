@@ -1,0 +1,6 @@
+# 创建项目目录
+mkdir Minecraft-Launcher
+cd Minecraft-Launcher
+
+# 创建必要文件
+touch launcher.py README.md .gitignore requirements.txt
